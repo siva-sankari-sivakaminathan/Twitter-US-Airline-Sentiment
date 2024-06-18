@@ -19,8 +19,12 @@ To implement the techniques learnt as a part of the course.
 **Learning Outcomes:**
 
  Basic understanding of text pre-processing.
+
  What to do after text pre-processing:
+
 o Bag of words
 o Tf-idf
+
  Build the classification model.
- Evaluate the Mode****
+
+ Evaluate the Model
